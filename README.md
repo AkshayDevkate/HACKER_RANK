@@ -1,7 +1,8 @@
 # HACKER_RANK
 HACKER RANK EXERCISES
 
-(Link)[https://www.hackerrank.com/devkatte_akshay1] to my hacker rank profile
+Please visit my Hakcer rank Profile 
+https://www.hackerrank.com/devkatte_akshay1
 
 
 Swift Codes
