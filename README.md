@@ -4,7 +4,7 @@ Problem solving HackerRank Swift solutions
 
 ## Swift Codes
 
-(A Very Big Sum)[] - (Solution)[]
+[A Very Big Sum]() - [Solution]() \n
 [Angry professor]() - [Solution]()
 [Apple and oranges]() - [Solution]()
 [Beautiful days at movies]()- [Solution]()
