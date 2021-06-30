@@ -4,22 +4,22 @@ Problem solving HackerRank Swift solutions
 
 ## Swift Codes
 
-A Very Big Sum
-Angry professor
-Apple and oranges 
-Beautiful days at movies 
-Birthday cake candles 
-Grading Student 
-Plus Minus 
-Staircase
-Time conversion
-Compare the triplets 
-Diagonal difference 
-Kangaroo
-Magic matrix 
-Mini max sum
-Sales by match 
-mini max sum
+(A Very Big Sum)[] - (Solution)[]
+[Angry professor]() - [Solution]()
+[Apple and oranges]() - [Solution]()
+[Beautiful days at movies]()- [Solution]()
+[Birthday cake candles]()- [Solution]()
+[Grading Student]()- [Solution]()
+[Plus Minus]()- [Solution]()
+[Staircase]()- [Solution]()
+[Time conversion]()- [Solution]()
+[Compare the triplets]()- [Solution]()
+[Diagonal difference]()- [Solution]()
+[Kangaroo]()- [Solution]()
+[Magic matrix]() - [Solution]()
+[Mini max sum]()- [Solution]()
+[Sales by match]() - [Solution]()
+[mini max sum]()- [Solution]()
 
 ## Contributors
 
