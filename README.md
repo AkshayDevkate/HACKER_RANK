@@ -4,22 +4,22 @@ Problem solving HackerRank Swift solutions
 
 ## Swift Codes
 
-[A Very Big Sum]() - [Solution]() \n
-[Angry professor]() - [Solution]()
-[Apple and oranges]() - [Solution]()
-[Beautiful days at movies]()- [Solution]()
-[Birthday cake candles]()- [Solution]()
-[Grading Student]()- [Solution]()
-[Plus Minus]()- [Solution]()
-[Staircase]()- [Solution]()
-[Time conversion]()- [Solution]()
-[Compare the triplets]()- [Solution]()
-[Diagonal difference]()- [Solution]()
-[Kangaroo]()- [Solution]()
-[Magic matrix]() - [Solution]()
-[Mini max sum]()- [Solution]()
-[Sales by match]() - [Solution]()
-[mini max sum]()- [Solution]()
+[A Very Big Sum]() - [Solution]() <br/>
+[Angry professor]() - [Solution]() <br/>
+[Apple and oranges]() - [Solution]() <br/>
+[Beautiful days at movies]()- [Solution]() <br/>
+[Birthday cake candles]()- [Solution]() <br/>
+[Grading Student]()- [Solution]() <br/>
+[Plus Minus]()- [Solution]() <br/>
+[Staircase]()- [Solution]() <br/>
+[Time conversion]()- [Solution]() <br/>
+[Compare the triplets]()- [Solution]() <br/>
+[Diagonal difference]()- [Solution]() <br/>
+[Kangaroo]()- [Solution]() <br/>
+[Magic matrix]() - [Solution]() <br/>
+[Mini max sum]()- [Solution]() <br/>
+[Sales by match]() - [Solution]() <br/>
+[mini max sum]()- [Solution]() <br/>
 
 ## Contributors
 
