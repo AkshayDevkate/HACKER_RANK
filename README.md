@@ -20,6 +20,7 @@ Problem solving HackerRank Swift solutions
 * [Mini max sum]()- [Solution](https://github.com/AkshayDevkate/HACKER_RANK/blob/master/mini-max_sum.swift) <br/>
 * [Sales by match]() - [Solution](https://github.com/AkshayDevkate/HACKER_RANK/blob/master/salesbyMatch.swift) <br/>
 * [mini max sum]()- [Solution](https://github.com/AkshayDevkate/HACKER_RANK/blob/master/simple_array_sum.swift) <br/>
+* [Luck balence](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) - [Solution]()
 
 ## Contributors
 
